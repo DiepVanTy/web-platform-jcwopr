@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden;
+  background-image: url('https://images.pexels.com/photos/167699/pexels-photo-167699.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-size: 100% auto;
+}
+#demo {
+  font-size: 8vw;
+  padding: .1em .6em;
+  border-radius: .3em;
+  color: black;
+}
+a {
+  color: #fff;
+}
